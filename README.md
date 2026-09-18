@@ -1,4 +1,4 @@
-# Hi, I'm Carlo 👋
+# Hi, I'm Carlo 
 
 Industrial Informatics & Robotics Engineer from the **Polytechnic University of Valencia (UPV)**, currently pursuing an **MSc in Artificial Intelligence for Industry and Manufacturing at UNIR**.
 
@@ -6,11 +6,11 @@ My main interests are focused on the intersection of artificial intelligence, ro
 
 ## Areas of Interest
 
-- 🤖 Robotics & Autonomous Systems
-- 🧠 Artificial Intelligence & Deep Learning
-- 👁️ Computer Vision
-- 🏭 Intelligent Manufacturing
-- 🎮 Reinforcement Learning
+-  Robotics & Autonomous Systems
+-  Artificial Intelligence & Deep Learning
+-  Computer Vision
+-  Intelligent Manufacturing
+-  Reinforcement Learning
 
 ## Featured Projects
 
