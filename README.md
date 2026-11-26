@@ -61,7 +61,7 @@ The system demonstrates the integration of **AI perception and robotic automatio
 
 ---
 
-### 3. Multi-Object Tracking & Traffic Counting
+### 3. [Multi-Object Tracking & Traffic Counting](https://github.com/ercarlo/Multi-Object-Tracking-and-Counting)
 
 **YOLO11s · ByteTrack · BoT-SORT · Re-ID · OC-SORT · OpenCV**
 
@@ -82,7 +82,7 @@ The project also investigates ID switches, occlusions, trajectory fragmentation 
 
 ---
 
-### 4. Sim-to-Sim Domain Randomization
+### 4. [Sim-to-Sim Domain Randomization](https://github.com/ercarlo/sim-to-sim-domain-randomization)
 
 **Reinforcement Learning · PPO · Domain Randomization · Python**
 
@@ -94,7 +94,7 @@ Analyzed policy robustness and learned representations using PCA and t-SNE.
 
 ---
 
-### 5. Driver Monitoring System
+### 5. [Driver Monitoring System](https://github.com/ercarlo/computer-vision-driver-monitoring-system)
 
 **Computer Vision · OpenCV · Head Pose Estimation · Real-Time Monitoring**
 
@@ -104,7 +104,7 @@ Designed to identify driver states associated with distraction, microsleep and d
 
 ---
 
-### 6. MITRE ATT&CK Tactic Classification
+### 6. [MITRE ATT&CK Tactic Classification](https://github.com/ercarlo/cyberattack-tactic-classification)
 
 **NLP · BERT · UniXcoder · Transformers · PyTorch**
 
