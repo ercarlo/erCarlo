@@ -2,7 +2,7 @@
 
 **Robotics & AI Engineer | ROS 2 · Autonomous Systems · Computer Vision**
 
-Industrial Technologies Engineering graduate from the **Polytechnic University of Valencia (UPV)**, specializing in **Automation and Electronics**, currently pursuing an **MSc in Artificial Intelligence for Industry and Manufacturing at UNIR**.
+Industrial Informatics and Robotics Engineering graduate from the **Polytechnic University of Valencia (UPV)**, currently pursuing an **MSc in Artificial Intelligence for Industry and Manufacturing at UNIR**.
 
 My main focus is **robotics software development**, particularly the integration of **ROS 2, autonomous navigation, robotic manipulation and AI-based perception**.
 
